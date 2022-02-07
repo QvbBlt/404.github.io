@@ -1,4 +1,4 @@
-# theme: jekyll-theme-leap-day
+
 title: Hexo
 subtitle: "A fast, simple & powerful blog framework powered by Node.js."
 description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
@@ -6,7 +6,8 @@ author: Hexo
 language: en
 timezone: UTC
 
-theme: navy
+theme: jekyll-theme-leap-day
+# theme: navy
 
 highlight:
   enable: true
