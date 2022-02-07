@@ -1,17 +1,5 @@
 
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
-language: en
-timezone: UTC
 
 theme: jekyll-theme-leap-day
 # theme: navy
 
-highlight:
-  enable: true
-  line_number: false
-
-
-github: hexojs/hexo
