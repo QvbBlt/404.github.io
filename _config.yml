@@ -1,3 +1,6 @@
-theme: jekyll-theme-leap-day
-# theme: navy
-
+exclude: ["local"]
+url: http://rainzhao.com
+permalink: /:categories/:year/:title.html
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "no_intra_emphasis", "tables", "autolink", "strikethrough"]

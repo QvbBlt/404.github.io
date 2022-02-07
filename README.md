@@ -1,1 +1,1 @@
-404.github.io
+Rain Zhao's blog site
